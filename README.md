@@ -27,7 +27,6 @@ Skills: data cleaning, data analysis,\ data visualization.
 Technology: Excel, Sql
 
 Nashville Housing Data Cleaning
-Code: Data Cleaning Project Queries: Nashville Housing.sql
 Description: The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 Skills: DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 Technology: SQL Server
@@ -40,12 +39,12 @@ Technology: SQL Server
 
 Education
 Ambrose Alli University: Bachelor's degree, Geography and Regional Planning, 2010 - 2014
-Certification: here are soem certifications i have completed
+Certification: here are some certifications i have completed
 Google Data Analytics Professional Certificate (Coursera - Google)
 Data Analytics Essentials by Cisco
 
 Contacts
-LinkedIn: @OseghaleStephenIseghohi
+LinkedIn: @OseghaleIseghohi
 Email: oseghalestephen00@gmail.com
 
 
